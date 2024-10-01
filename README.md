@@ -24,19 +24,23 @@ This project is a **Currency Converter** built in **React**. Users can convert a
 ## How to Run the Project
 
 1. **Clone the Repository**
+ 
    ```bash
    git clone https://github.com/your-repo/currency-converter.git
    cd currency-converter
    ```
-2. **Clone the Repository**
+3. **Clone the Repository**
+
    ```bash
      npm install
    ```
-3. **Run the App**
+5. **Run the App**
+
    ```bash
     npm run dev
    ```
-4. **Run the App**
+7. **Run the App**
+
    ```bash
    npm run build
    ```
