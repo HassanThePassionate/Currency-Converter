@@ -1,5 +1,7 @@
 # Currency Converter
 
+![Screenshot 2024-10-01 135819](https://github.com/user-attachments/assets/15bad9f8-3c5b-443c-9888-61fe8c1d3765)
+
 ## Overview
 
 This project is a **Currency Converter** built in **React**. Users can convert any currency to another currency with a **beautiful and modern UI**. The design focuses on simplicity and usability, making it easy for users to get conversion results quickly.
